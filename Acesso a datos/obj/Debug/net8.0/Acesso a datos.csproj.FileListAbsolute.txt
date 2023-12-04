@@ -1,0 +1,15 @@
+C:\Users\27135\source\repos\Proyecto\Acesso a datos\bin\Debug\net8.0\Acesso a datos.deps.json
+C:\Users\27135\source\repos\Proyecto\Acesso a datos\bin\Debug\net8.0\Acesso a datos.runtimeconfig.json
+C:\Users\27135\source\repos\Proyecto\Acesso a datos\bin\Debug\net8.0\Acesso a datos.dll
+C:\Users\27135\source\repos\Proyecto\Acesso a datos\bin\Debug\net8.0\Acesso a datos.pdb
+C:\Users\27135\source\repos\Proyecto\Acesso a datos\obj\Debug\net8.0\Acesso a datos.csproj.AssemblyReference.cache
+C:\Users\27135\source\repos\Proyecto\Acesso a datos\obj\Debug\net8.0\Acesso a datos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\27135\source\repos\Proyecto\Acesso a datos\obj\Debug\net8.0\Acesso a datos.AssemblyInfoInputs.cache
+C:\Users\27135\source\repos\Proyecto\Acesso a datos\obj\Debug\net8.0\Acesso a datos.AssemblyInfo.cs
+C:\Users\27135\source\repos\Proyecto\Acesso a datos\obj\Debug\net8.0\Acesso a datos.csproj.CoreCompileInputs.cache
+C:\Users\27135\source\repos\Proyecto\Acesso a datos\obj\Debug\net8.0\Acesso a datos.dll
+C:\Users\27135\source\repos\Proyecto\Acesso a datos\obj\Debug\net8.0\refint\Acesso a datos.dll
+C:\Users\27135\source\repos\Proyecto\Acesso a datos\obj\Debug\net8.0\Acesso a datos.pdb
+C:\Users\27135\source\repos\Proyecto\Acesso a datos\obj\Debug\net8.0\Acesso a datos.genruntimeconfig.cache
+C:\Users\27135\source\repos\Proyecto\Acesso a datos\obj\Debug\net8.0\ref\Acesso a datos.dll
+C:\Users\27135\source\repos\Proyecto\Acesso a datos\obj\Debug\net8.0\Acesso a datos.sourcelink.json
